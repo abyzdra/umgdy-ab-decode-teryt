@@ -10,4 +10,4 @@ Decodes TERYT ID and creates fields with descriptions:
 
 Requirements:
 * xml Python module
-
+* This toolbox was created in ArcGIS 10.4. You may not be able to open this toolbox in previous versions of ArcGIS, if the internal format of toolboxes was changed from release to release.
